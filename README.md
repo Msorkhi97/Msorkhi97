@@ -30,5 +30,4 @@
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="langgraph"/>
 <img src="https://img.shields.io/badge/AISuite-000000?style=for-the-badge" alt="aisuite"/>
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="pydantic"/>
-<img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest"/>
 </p>
